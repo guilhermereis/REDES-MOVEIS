@@ -1,0 +1,152 @@
+REDES MÓVEIS
+
+
+
+Comunicação Móvel
+
+Informações e recursos em qualquer
+lugar e momento
+
+Sinônimos: NÔMADE UBÍQUA
+
+
+
+Computação Móvel:
+Uma definição mais “técnica”
+
+Processamento
++
+Mobilidade
++
+Comunicação sem fio
+
+
+Processamento:
+
+Dispositivo de processamento portátil de tipos variados.
+Pode ser levado para qualquer lugar
+Nao deve depender de "energia de tomada"
+
+Mobilidade:
+
+Não importa onde você esteja
+
+
+Comunicação sem fio:
+
+Todas as formas de comunicação que não usam fios ;)
+Usam ondas.
+
+
+Projeto HALO
+ High Altitute Long Operation
+Voa numa altitude de 51 a 60000 pés
+– Projetado para comunicação broadband
+– Área de cobertura:
+• 50 a 75 milhas de diâmetro, em áreas metropolitanas
+– Capacidade inicial de 16 Mbps
+• Info: www.angelcorp.com
+
+
+Redes Ad hoc
+
+Dispositivos Computacionais
+• Laptop, palmtop
+• PDAs (Personal Digital Assistants)
+• Telefones celulares
+
+
+Tecnologias de Acesso
+• FDMA - Frequency Division Multiplexing Access
+– AMPS - Advanced Mobile Phone Service
+• TDMA - Time Division Multiplexing Access
+– GSM - Global System for Mobile communication
+– D-AMPS - Digital AMPS
+• CDMA - Code Division Multiplexing Access
+• Gerações 2G, 2.5G, 3G e 4G
+
+
+
+Arquitetura WAP
+• Solução para ligar PDAs e celulares a
+Internet
+•Ambiente e protocolos predefinidos
+*Interoperabilidade
+
+
+---------------------------------------------------------------------------------
+
+WIRELESS
+
+
+Wireless X Mobilidade
+
+são coisas distintas!!
+
+Wireless: Comunicação utilizando enlaces sem fio
+
+Mobilidade: Trata-se da possibilidade do usuário se mover e migrar do ponto
+no qual ele se associa à rede.
+
+Wireless se tornou um termo geral para descrever qualquer tipo de comunicação
+utilizando ondas ou radiação eletromagnética.
+
+
+
+DIVERSIDADE DO WIRELESS:
+
+Difere em:
+*Mobilidade
+*Tipo de aplicação
+*Tipo de ambiente
+*Características do meio
+*"PERVASIVIDADE" de hosts
+*grau de infra-estrutura
+*cobertura
+*custo
+
+EXEMPLOS:
+
+*telefonia celular
+*satélite
+*WMAN (Wireless Metropolitan Area Networks
+*WLAN (Wireless Local Area Networks)
+*WPAN (Wireless Personal Area Networks)
+*AMBIENTES de computação UBÍQUA
+*MANET (Mobile Ad Hoc Networks)
+*Redes de Sensores
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+REFERÊNCIAS:
+
+http://homepages.dcc.ufmg.br/~mateus/compmovel/aula6.pdf
+
+http://www.cin.ufpe.br/~pasg/if740/if740.html
+
+http://en.wikipedia.org/wiki/Cellular_network
+
+http://ademir-ads.blogspot.com.br/2010/05/computacao-movel.html
+
+http://www.devmedia.com.br/sistemas-moveis-parte-02/12851
+
+
+William C. Y. Lee,Mobile Communications Design Fundamentals, Second Edition, págs:
+
+199
